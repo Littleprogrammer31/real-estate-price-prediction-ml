@@ -1,6 +1,3 @@
-# real-estate-price-prediction-ml
-Machine learning project to predict real estate prices using property features, with model comparison and performance evaluation.
-
 # Real Estate Price Prediction — Machine Learning
 
 A university machine learning project exploring how property characteristics relate to real estate prices, using exploratory data analysis, regression models, and interactive visualisations.
