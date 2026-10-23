@@ -1,7 +1,13 @@
 # Real Estate Price Prediction — Machine Learning
 
 A university machine learning project exploring how property characteristics relate to real estate prices, using exploratory data analysis, regression models, and interactive visualisations.
+## Try the Interactive Notebook
 
+Run the notebook in Google Colab to explore the interactive visualisations and real-estate price prediction sliders.
+
+[**Open the Real Estate ML Project in Google Colab →**](https://colab.research.google.com/drive/1D6vat5W3s7LMCAzaO115NqgrDDRAEQbU?usp=sharing)
+
+Run the notebook cells in order and upload the Excel dataset when prompted.
 ## Project Overview
 
 This project uses the **Real Estate Valuation dataset** from the UCI Machine Learning Repository. It contains 414 real estate transactions in Sindian District, New Taipei City, Taiwan, recorded between August 2012 and July 2013.
